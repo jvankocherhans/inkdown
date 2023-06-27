@@ -1,7 +1,7 @@
 <div align="center"><h1>Inkdown</h1></div>
 
 <div align="center">
-  <img width="180px" src="./assets/logo/inkdown_logo.svg" />
+  <img width="280px" src="./assets/logo/inkdown_logo.svg" />
 </div>
 
 <br>
